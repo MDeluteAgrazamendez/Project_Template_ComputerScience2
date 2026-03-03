@@ -1,4 +1,5 @@
-[
+{
+  attendances = [
   {
     "student_id": "S001",
     "name": "Alice Johnson",
@@ -48,3 +49,4 @@
     ]
   }
 ]
+}
